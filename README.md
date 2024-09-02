@@ -1,7 +1,8 @@
-# International-tax-case-study
-CTA3 2024 - CS1 International Tax Practice Case Study
+[Back to Home page](https://anh.contact)
 
-Background Summary:
+# CTA3 2024 - CS1 International Tax Practice Case Study
+
+# Background Summary:
 SkyNet Ltd a UK-based company is expanding operations into Australia including establishing a manufacturing facility in Blacktown NSW to produce quantum computing chips and setting up sales offices in major Australian cities. The project will cost A$100m financed through a combination of external borrowing and internal funds. SkyNet will also pay royalties to an Australian university for research utilized in chip manufacturing. The chips produced will be exported to the UK where SkyNet will integrate them into quantum computers for global sales including Australia. SkyNet does not plan to incorporate an Australian subsidiary but may consider selling its Australian business in the future.
 
 Late Breaking Fact:
